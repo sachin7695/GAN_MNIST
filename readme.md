@@ -1,6 +1,6 @@
 # Fashion Image Generation with GANs
 
-![Generated Fashion Images](sample_images.png)
+![Generated Fashion Images](output.png)
 
 ## Overview
 
